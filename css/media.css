@@ -1,0 +1,39 @@
+.box-prod {
+	padding-bottom: 100px;
+	text-align: center;
+	text-justify: inter-word;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(14, 118, 188);
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+body{
+	font-family: Arial,Helvetica, sans-serif;
+}
+
+
+.tittle-link  h1:link{
+	color: rgb(14, 118, 188);
+}
+.tittle-link  h1:hover{
+	color: rgb(3, 29, 66);
+}
+.footer p a:link,
+.footer p a{
+	color: white;
+}
+.footer p a:hover{
+	text-decoration: underline;
+}
+
+
+.toggle.btn {
+	height: 50px !important;
+}

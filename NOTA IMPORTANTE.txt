@@ -1,0 +1,4 @@
+
+1.- Instalar el XAMPP que viene en la carpeta ya que este fue con el que se desarrollo
+2.- Para Copiar los dll hay que ir a lña carpeta de los drivers y seleccionar
+la version 7.2.2 y dentro escoger la de 32 bits ya que este fue la se instalo 
